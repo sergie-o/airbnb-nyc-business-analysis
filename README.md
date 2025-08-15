@@ -3,6 +3,14 @@
 Ever wondered why some NYC Airbnbs **command sky-high prices 💰** while others barely break even?  
 In this project, I dive into **48,000+ listings** to uncover the **hidden patterns** in **pricing, location, room type, and availability** — turning raw data into **actionable business strategies** any host could use to **maximize revenue**.  
 
+
+
+# 🏙 NYC Airbnb Premium Insights: Uncovering What Drives High Prices  
+Exploring Airbnb listings in New York City to **unlock the secrets of pricing, availability, and location influence** — turning raw data into actionable business strategies.  
+
+<p align="center">
+  <img src="project_cover.png" alt="NYC Airbnb Data Analysis" width="800"/>
+</p>
 ---
 
 ## 📊 **Dataset Overview**
