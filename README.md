@@ -5,7 +5,7 @@ In this project, I dive into **48,000+ listings** to uncover the **hidden patter
 
 
 <p align="center">
-  <img src="./project_cover.png" alt="NYC Airbnb Data Analysis" width="800"/>
+  <img src="https://raw.githubusercontent.com/sergie-o/airbnb-nyc-business-analysis/main/4740D4CA-4528-46F5-A6A0-45C3E5AB4219.png" alt="NYC Airbnb Data Analysis" width="800">
 </p>
 
 ## 📊 **Dataset Overview**
