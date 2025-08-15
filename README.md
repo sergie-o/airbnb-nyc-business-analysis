@@ -49,7 +49,62 @@ We approached this with a **premium business lens** — focusing on:
 ## 🔄 **How to Reproduce**
 **Prerequisites:**  
 - Python 3.12+ 🐍  
-- Libraries: `pandas`, `numpy`, `matplotlib`, `seaborn`, `plotly`, `sqlite3`, `statsmodels`  
+- Libraries: `pandas`, `numpy`, `matplotlib`, `seaborn`, `plotly`, `sqlite3`, `statsmodels` 
+
+ **Run Instructions:**
+1. **Clone this repository**
+   ```bash
+   git clone https://github.com/sergie-o/airbnb-nyc-business-analysis.git
+2. **Navigate to the project folder**
+   ```bash
+    cd airbnb-nyc-business-analysis
+3. **Open the Jupyter Notebook**
+- If you use Jupyter Notebook:
+   ```bash
+   jupyter notebook "airbnb_newyork.ipynb"
+- Or, open it in VSCode by double-clicking the file or using:
+   ```bash
+    code "airbnb_newyork.ipynb"
+4. **Ensure the dataset is in the correct location**
+- The file AB_NYC_2019.csv must be in the same directory as the notebook.
+5. Run all cells
+- Select Cell > Run All in Jupyter Notebook or VSCode to reproduce the analysis.
+## :rocket: Next Steps
+-  Build a predictive pricing model using key features.
+  
+-  Incorporate external datasets (e.g., tourism rates, events) to improve pricing recommendations.
+
+-  Analyze review sentiment 📝 to see how it impacts bookings & pricing.
+
+
+
+
+## 📁 Repository Structure  
+```bash
+nyc-airbnb-premium-insights/
+│
+├── data/                               # Raw and cleaned datasets
+│   ├── airbnb_nyc.csv                   # Original dataset from Kaggle
+│   └── airbnb_nyc_cleaned.csv           # Cleaned dataset after preprocessing
+│
+├── notebooks/                          # Jupyter notebooks for analysis
+│   └── airbnb_premium_insights.ipynb    # Main analysis & visualizations
+│
+├── sql/                                # SQL queries for analysis
+│   └── airbnb_analysis_queries.sql      # Business-related SQL queries
+│
+├── visuals/                            # Generated plots, charts, and maps
+│   ├── price_distribution.png
+│   ├── availability_boxplot.png
+│   └── neighbourhood_price_map.png
+│
+├── README.md                           # Project documentation (your catchy version)
+└── requirements.txt                    # Dependencies list (pandas, plotly, sqlite3, etc.)   ```
+
+
+
+
+
 
 **Run the project:**  
 ```bash
