@@ -1,4 +1,4 @@
-# 🏙✨ **NYC Airbnb Premium Insights: Cracking the Code to High-Earning Listings**  
+# 🏙✨ **NYC Airbnb  Insights: Cracking the Code to High-Earning Listings**  
 
 Ever wondered why some NYC Airbnbs **command sky-high prices 💰** while others barely break even?  
 In this project, I dive into **48,000+ listings** to uncover the **hidden patterns** in **pricing, location, room type, and availability** — turning raw data into **actionable business strategies** any host could use to **maximize revenue**.  
